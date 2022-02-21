@@ -13,5 +13,3 @@ hours_time_1 = hours_time % 24 // 10
 hours_time_2 = hours_time % 24 % 10
 
 print(f'{hours_time_1}{hours_time_2}:{min_time_1}{min_time_2}:{sec_time_1}{sec_time_2}')
-
-

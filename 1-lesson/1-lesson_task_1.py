@@ -13,5 +13,3 @@ print("--- Спасибо! Ваши данные записаны ---")
 print(user_name, user_lastname)
 print(f"Возраст: {user_age}")
 print("Город: {}, Телефон: {}".format(user_city, user_phone))
-
-
